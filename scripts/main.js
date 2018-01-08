@@ -8,4 +8,4 @@ function sayOuch() {
 var foxImage = document.querySelector('img');
 
 //Assign the function to the onclick event on the img
-foxImage.onclick = sayOuch();
+foxImage.onclick = sayOuch;
