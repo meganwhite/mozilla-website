@@ -33,3 +33,8 @@ img {
 .quote {
 	font-size: 22px;
 }
+
+#apple-stock-chart {
+  font: 10px sans-serif;
+  background-color: lightgray;
+}
